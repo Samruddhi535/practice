@@ -1,3 +1,4 @@
 # practice
 It is again a repository to practice all the learnt commands
-Author : Samruddhi Renakale
+<br>
+<b>Author : Samruddhi Renakale<b>
